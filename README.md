@@ -1,5 +1,8 @@
 # Trabalho da Alura: Em busca da cidade perdida
 
+# Conceito:
+Trabalho criado com a intuição de aprender a utilizar funções pouco complexas, juntamente com a aplicação do JavaScript. É criado um estilo de "game" interativo, cujo o objetivo é encontrar a Cidade Perdida, boa sorte!
+
  
 # Linguagens
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
